@@ -1,8 +1,4 @@
 
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/09cb4f0e-1bcf-4dfc-8b33-59299f3fc88c" width="100px"></img>
-  <p>Barreleye</p>
-</div>
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38% />
+</a>    
